@@ -1,0 +1,47 @@
+WARN  | 05-06-2023 03:25:06 | utility.CollectionFileManager - Boot file not found!
+INFO  | 05-06-2023 03:25:06 | run.Server - Server start...
+INFO  | 05-06-2023 03:25:06 | run.Server - Server started successfully.
+INFO  | 05-06-2023 03:25:06 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:25:11 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:25:30 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 05-06-2023 03:25:30 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:25:30 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:25:30 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:25:30 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:25:30 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:25:38 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:25:42 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 03:25:42 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 03:25:42 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:26:09 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:26:25 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:26:57 | run.Server - Request 'clear' successfully processed.
+INFO  | 05-06-2023 03:27:00 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:27:04 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 03:27:04 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 03:27:04 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:27:17 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:27:19 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:27:35 | run.Server - Request 'help' successfully processed.
+INFO  | 05-06-2023 03:28:34 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 05-06-2023 03:28:34 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:28:34 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:28:34 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:28:34 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:28:34 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:28:36 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:28:39 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 03:28:39 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 03:28:39 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:29:01 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:29:03 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:29:39 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:29:41 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:29:43 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 03:29:43 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 03:29:43 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:30:13 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:30:22 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:31:33 | run.Server - Request 'server_exit' successfully processed.
+INFO  | 05-06-2023 03:31:33 | run.Server - Shutting down the server...
+INFO  | 05-06-2023 03:31:33 | run.Server - Server completed successfully.

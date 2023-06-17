@@ -1,0 +1,6 @@
+INFO  | 06-06-2023 04:32:19 | utility.CollectionFileManager - Collection successfully uploaded!
+INFO  | 06-06-2023 04:32:19 | run.Server - Server start...
+INFO  | 06-06-2023 04:32:19 | run.Server - Server started successfully.
+INFO  | 06-06-2023 04:32:19 | run.Server - Server started successfully.
+INFO  | 06-06-2023 04:33:02 | run.Server - Client connection successfully established.
+FATAL | 06-06-2023 04:33:02 | run.Server - An error occurred while trying to use the port '8088'!

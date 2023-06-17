@@ -1,0 +1,9 @@
+INFO  | 05-06-2023 21:46:41 | utility.CollectionFileManager - Collection successfully uploaded!
+INFO  | 05-06-2023 21:46:41 | run.Server - Server start...
+INFO  | 05-06-2023 21:46:41 | run.Server - Server started successfully.
+INFO  | 05-06-2023 21:46:41 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 21:46:48 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 21:46:51 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 21:47:00 | run.Server - Request 'clear' successfully processed.
+INFO  | 05-06-2023 21:47:30 | run.Server - Shutting down the server...
+INFO  | 05-06-2023 21:47:30 | run.Server - Server completed successfully.

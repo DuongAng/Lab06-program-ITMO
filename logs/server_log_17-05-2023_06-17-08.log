@@ -1,0 +1,37 @@
+WARN  | 17-05-2023 06:17:08 | utility.CollectionFileManager - Boot file not found!
+INFO  | 17-05-2023 06:17:08 | run.Server - Server start...
+INFO  | 17-05-2023 06:17:08 | run.Server - Server started successfully.
+INFO  | 17-05-2023 06:17:08 | run.Server - Port listening '1821'...
+INFO  | 17-05-2023 06:17:09 | run.Server - Client connection successfully established.
+INFO  | 17-05-2023 06:17:47 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:17:54 | run.Server - Request 'save' successfully processed.
+INFO  | 17-05-2023 06:18:43 | run.Server - Request 'save' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'clear' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'info' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:19:38 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:19:58 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:20:30 | run.Server - Request 'save' successfully processed.
+INFO  | 17-05-2023 06:20:58 | run.Server - Request 'exit' successfully processed.
+INFO  | 17-05-2023 06:20:58 | run.Server - Client successfully disconnected from server!
+INFO  | 17-05-2023 06:20:58 | run.Server - Port listening '1821'...
+INFO  | 17-05-2023 06:21:00 | run.Server - Client connection successfully established.
+INFO  | 17-05-2023 06:21:06 | run.Server - Request 'help' successfully processed.
+INFO  | 17-05-2023 06:21:09 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:21:13 | run.Server - Request 'clear' successfully processed.
+INFO  | 17-05-2023 06:21:17 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:21:27 | run.Server - Request 'save' successfully processed.
+INFO  | 17-05-2023 06:21:43 | run.Server - Request 'help' successfully processed.
+INFO  | 17-05-2023 06:22:04 | run.Server - Request 'exit' successfully processed.
+INFO  | 17-05-2023 06:22:04 | run.Server - Client successfully disconnected from server!
+INFO  | 17-05-2023 06:22:04 | run.Server - Port listening '1821'...
+WARN  | 17-05-2023 06:23:04 | run.Server - Connection timed out!
+INFO  | 17-05-2023 06:23:04 | run.Server - Shutting down the server...
+INFO  | 17-05-2023 06:23:04 | run.Server - Server completed successfully.

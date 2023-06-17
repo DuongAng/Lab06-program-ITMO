@@ -1,0 +1,25 @@
+INFO  | 05-06-2023 03:42:17 | utility.CollectionFileManager - Collection successfully uploaded!
+INFO  | 05-06-2023 03:42:17 | run.Server - Server start...
+INFO  | 05-06-2023 03:42:17 | run.Server - Server started successfully.
+INFO  | 05-06-2023 03:42:17 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:42:21 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:42:23 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:42:36 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 05-06-2023 03:42:36 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:42:36 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:42:36 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:42:36 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:42:36 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 03:42:40 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 03:42:40 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 03:42:40 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:43:03 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:43:04 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:43:10 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 03:43:10 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 03:43:10 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 03:43:10 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 03:43:47 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 03:44:48 | run.Server - Request 'server_exit' successfully processed.
+INFO  | 05-06-2023 03:44:48 | run.Server - Shutting down the server...
+INFO  | 05-06-2023 03:44:48 | run.Server - Server completed successfully.

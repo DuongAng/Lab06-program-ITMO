@@ -1,0 +1,17 @@
+INFO  | 05-06-2023 04:49:42 | utility.CollectionFileManager - Collection successfully uploaded!
+INFO  | 05-06-2023 04:49:42 | run.Server - Server start...
+INFO  | 05-06-2023 04:49:42 | run.Server - Server started successfully.
+INFO  | 05-06-2023 04:49:42 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 04:49:45 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 04:49:56 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 04:50:26 | run.Server - Request 'insert' successfully processed.
+INFO  | 05-06-2023 04:50:28 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 04:50:42 | run.Server - Request 'exit' successfully processed.
+INFO  | 05-06-2023 04:50:42 | run.Server - Client successfully disconnected from server!
+INFO  | 05-06-2023 04:50:42 | run.Server - Port listening '1026'...
+INFO  | 05-06-2023 04:50:42 | run.Server - Client connection successfully established.
+INFO  | 05-06-2023 04:50:46 | run.Server - Request 'show' successfully processed.
+INFO  | 05-06-2023 04:50:54 | run.Server - Request 'save' successfully processed.
+INFO  | 05-06-2023 04:51:11 | run.Server - Request 'server_exit' successfully processed.
+INFO  | 05-06-2023 04:51:11 | run.Server - Shutting down the server...
+INFO  | 05-06-2023 04:51:11 | run.Server - Server completed successfully.

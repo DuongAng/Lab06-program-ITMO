@@ -1,0 +1,92 @@
+<map>
+  <person id="1">
+    <id>1</id>
+    <name>Duong</name>
+    <coordinates>
+      <x>23</x>
+      <y>32.0</y>
+    </coordinates>
+    <creationDate>2023-06-07T06:41:56.0742373</creationDate>
+    <height>167.0</height>
+    <birthday>2002-01-09T00:00:00+03:00[Europe/Moscow]</birthday>
+    <weight>60</weight>
+    <hairColor>RED</hairColor>
+    <location>
+      <x>44</x>
+      <y>24</y>
+      <z>44</z>
+    </location>
+  </person>
+  <person id="2">
+    <id>2</id>
+    <name>Nam Phuong</name>
+    <coordinates>
+      <x>54</x>
+      <y>43.0</y>
+    </coordinates>
+    <creationDate>2023-06-07T06:41:56.078785</creationDate>
+    <height>159.0</height>
+    <birthday>2001-04-30T00:00:00+04:00[Europe/Moscow]</birthday>
+    <weight>50</weight>
+    <hairColor>RED</hairColor>
+    <location>
+      <x>35</x>
+      <y>21</y>
+      <z>35</z>
+    </location>
+  </person>
+  <person id="3">
+    <id>3</id>
+    <name>Trung Kien</name>
+    <coordinates>
+      <x>66</x>
+      <y>36.0</y>
+    </coordinates>
+    <creationDate>2023-06-07T06:41:56.0817711</creationDate>
+    <height>155.0</height>
+    <birthday>2002-03-16T00:00:00+03:00[Europe/Moscow]</birthday>
+    <weight>65</weight>
+    <hairColor>BLACK</hairColor>
+    <location>
+      <x>25</x>
+      <y>63</y>
+      <z>25</z>
+    </location>
+  </person>
+  <person id="4">
+    <id>4</id>
+    <name>Hoang Hiep</name>
+    <coordinates>
+      <x>76</x>
+      <y>35.0</y>
+    </coordinates>
+    <creationDate>2023-06-07T06:41:56.0837706</creationDate>
+    <height>172.0</height>
+    <birthday>2000-09-25T00:00:00+04:00[Europe/Moscow]</birthday>
+    <weight>60</weight>
+    <hairColor>BLACK</hairColor>
+    <location>
+      <x>37</x>
+      <y>66</y>
+      <z>37</z>
+    </location>
+  </person>
+  <person id="5">
+    <id>5</id>
+    <name>Hien Luong</name>
+    <coordinates>
+      <x>11</x>
+      <y>33.0</y>
+    </coordinates>
+    <creationDate>2023-06-07T06:41:56.086772</creationDate>
+    <height>155.0</height>
+    <birthday>1977-09-15T00:00:00+03:00[Europe/Moscow]</birthday>
+    <weight>52</weight>
+    <hairColor>BLACK</hairColor>
+    <location>
+      <x>34</x>
+      <y>92</y>
+      <z>34</z>
+    </location>
+  </person>
+</map>

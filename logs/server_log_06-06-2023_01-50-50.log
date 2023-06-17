@@ -1,0 +1,6 @@
+INFO  | 06-06-2023 01:50:51 | utility.CollectionFileManager - Collection successfully uploaded!
+INFO  | 06-06-2023 01:50:51 | run.Server - Server start...
+INFO  | 06-06-2023 01:50:51 | run.Server - Server started successfully.
+INFO  | 06-06-2023 01:50:51 | run.Server - Server started successfully.
+INFO  | 06-06-2023 01:50:56 | run.Server - Client connection successfully established.
+FATAL | 06-06-2023 01:50:59 | run.Server - An error occurred while trying to use the port '1026'!

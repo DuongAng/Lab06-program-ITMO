@@ -1,0 +1,31 @@
+INFO  | 17-05-2023 06:35:19 | utility.CollectionFileManager - Collection successfully uploaded!
+INFO  | 17-05-2023 06:35:19 | run.Server - Server start...
+INFO  | 17-05-2023 06:35:19 | run.Server - Server started successfully.
+INFO  | 17-05-2023 06:35:19 | run.Server - Port listening '9102'...
+INFO  | 17-05-2023 06:35:39 | run.Server - Client connection successfully established.
+INFO  | 17-05-2023 06:35:49 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:35:54 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:36:07 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 17-05-2023 06:36:07 | run.Server - Request 'clear' successfully processed.
+INFO  | 17-05-2023 06:36:07 | run.Server - Request 'info' successfully processed.
+INFO  | 17-05-2023 06:36:07 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:36:10 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:36:20 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 17-05-2023 06:36:20 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:36:20 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:36:20 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:36:20 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:36:20 | run.Server - Request 'insert' successfully processed.
+INFO  | 17-05-2023 06:36:22 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:36:28 | run.Server - Request 'execute_script' successfully processed.
+INFO  | 17-05-2023 06:36:28 | run.Server - Request 'clear' successfully processed.
+INFO  | 17-05-2023 06:36:28 | run.Server - Request 'info' successfully processed.
+INFO  | 17-05-2023 06:36:28 | run.Server - Request 'show' successfully processed.
+INFO  | 17-05-2023 06:36:36 | run.Server - Request 'history' successfully processed.
+INFO  | 17-05-2023 06:36:45 | run.Server - Request 'help' successfully processed.
+INFO  | 17-05-2023 06:37:19 | run.Server - Request 'exit' successfully processed.
+INFO  | 17-05-2023 06:37:19 | run.Server - Client successfully disconnected from server!
+INFO  | 17-05-2023 06:37:19 | run.Server - Port listening '9102'...
+WARN  | 17-05-2023 06:38:19 | run.Server - Connection timed out!
+INFO  | 17-05-2023 06:38:19 | run.Server - Shutting down the server...
+INFO  | 17-05-2023 06:38:19 | run.Server - Server completed successfully.
